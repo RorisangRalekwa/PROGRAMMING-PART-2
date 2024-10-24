@@ -1,0 +1,5 @@
+When you now create the home page to display the lecturer and program coordinator buttons When you first click on the lecturer button on home-page,
+it is going to redirect you to a page called the Input Process which has the following information: first name, last name, staff number, Hourly rates, Hours worked and module department
+which you will type in the module that you are trying to claim your income for those given hours worked, and by clicking the enter button a message should appear stating that “the information entered has been uploaded successfully”
+as at this point we are not as of yet calculating and displaying the amount due to the lecturer for that specific module. When you press the cancel button,
+it will clear all the information inserted in the given boxes and start the process all over again.
